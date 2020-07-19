@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there! Welcome to my GitHub!
+
+My name is Ignacio Tampe (He/Him), and I'm an aspring software engineer from the little island of Puerto Rico. I've got quite a few projects here, coded in VB.NET, ASP.NET, Java, and most recently C#. I'm currently working on learning that last one, and I'm really enjoying it.
+
+Most of my works are licensed under CC0, so if you see something you could use amongst my code, don't hesitate to grab it! I'd appreciate a little note to tell me that you've used it, but you don't need to do that.
+
+I'm eager to help, and am always looking for a new challenge! If you've got something for me, don't hesitate to send me an email.
 
 <!--
 **igtampe/igtampe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
