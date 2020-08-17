@@ -1,6 +1,8 @@
-## Hi there! Welcome to my GitHub!
+![Welcome Image](https://raw.githubusercontent.com/igtampe/igtampe/master/GithubBanner.png)
 
-My name is Ignacio Tampe (He/Him), and I'm an aspring software engineer from the little island of Puerto Rico. I've got quite a few projects here, coded in VB.NET, ASP.NET, Java, and most recently C#. I'm currently working on learning that last one, and I'm really enjoying it.
+My name is Ignacio Tampe (He/Him), and I'm an aspring software engineer from the little island of Puerto Rico. I've got quite a few projects here, coded in VB.NET, ASP.NET, Java, and C#. Even though I only recently started working with C#, it has quickly grown to become one of my favorite languages. I hope to code a lot more on it in the future!
+
+----
 
 Most of my works are licensed under CC0, so if you see something you could use amongst my code, don't hesitate to grab it! I'd appreciate a little note to tell me that you've used it, but you don't need to do that.
 
