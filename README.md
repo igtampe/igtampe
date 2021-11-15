@@ -1,4 +1,4 @@
-![Welcome Image](https://raw.githubusercontent.com/igtampe/igtampe/master/GithubBanner.png)
+![Welcome Image](https://raw.githubusercontent.com/igtampe/igtampe/master/GithubBanner4.png)
 
 My name is Ignacio Tampe (He/Him), and I'm an aspring software engineer from the little island of Puerto Rico. I've got quite a few projects here, coded in VB.NET, ASP.NET, Java, and C#. Even though I only recently started working with C#, it has quickly grown to become one of my favorite languages. I hope to code a lot more on it in the future!
 
